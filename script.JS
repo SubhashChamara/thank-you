@@ -6,5 +6,5 @@ window.addEventListener('load', () => {
   setTimeout(() => {
     view1.classList.add('hidden');
     view2.classList.remove('hidden');
-  }, 150);
+  }, 1500);
 });
